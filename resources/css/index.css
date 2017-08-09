@@ -1,0 +1,12 @@
+* {
+  font-style: italic;
+}
+
+header
+footer {
+  background-color: black;
+}
+
+#main-banner {
+  background-image: url("../images/mainbanner.jpeg");
+}
